@@ -4,25 +4,36 @@
 ![What my discord looks like](/images/discord-showoff.png)
 
 go to this link: https://github.com/rauenzi/BetterDiscordApp/releases
+
 download the .exe (if you are on windows) and run it
+
 click "Agree"
+
 click "Install BandagedBD"
+
 Click "Install To Stable"
+
 Click "Install"
 
+
 download this repo and extract the files,
+
 go to discord, nothing should have changed at first sight
 
 # THEMES
 
 click on settings -> BANDAGED BD -> Themes -> Open Theme Folder
+
 this should be at the top of the themes page
 
 once it is opened, drag the .css file into that folder
+
 it should now appear in the themes tab on discord,
+
 enable it by clicking the slider
 
 go to BANDAGED BD -> Custom CSS
+
 copy this text into the custom css space:
 
 ```css
@@ -47,9 +58,13 @@ Everything should now working
 # PLUGINS
 
 click on settings -> BANDAGED BD -> Plugins -> Open Plugin Folder
+
 drag all the .json files from this repo into that folder
+
 install the dependencies that it asks you to install
+
 tick all the sliders to enable the plugins
 
 now you should have a nice looking discord
+
 Well Done!
