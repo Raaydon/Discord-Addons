@@ -25,6 +25,7 @@ enable it by clicking the slider
 go to BANDAGED BD -> Custom CSS
 copy this text into the custom css space:
 
+```css
 :root {
     --app-bg: url(https://i.imgur.com/U8bSjj5.jpg) !important;
     --app-blur: 5px !important;
@@ -37,7 +38,7 @@ copy this text into the custom css space:
     --messages-radius: 8px;
     --mention-rgb: 255,255,255, 0.5;
 }
-
+```
 click save and update
 
 Everything should now working
