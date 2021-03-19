@@ -1,5 +1,7 @@
 # Discord-Addons
-My directory of all themes and plugins for better discord
+*My directory of all themes and plugins for better discord*
+
+![What my discord looks like](/images/discord-showoff.png)
 
 go to this link: https://github.com/rauenzi/BetterDiscordApp/releases
 download the .exe (if you are on windows) and run it
@@ -11,7 +13,7 @@ Click "Install"
 download this repo and extract the files,
 go to discord, nothing should have changed at first sight
 
-THEMES
+# THEMES
 
 click on settings -> BANDAGED BD -> Themes -> Open Theme Folder
 this should be at the top of the themes page
@@ -41,7 +43,7 @@ click save and update
 Everything should now working
 
 
-PLUGINS
+# PLUGINS
 
 click on settings -> BANDAGED BD -> Plugins -> Open Plugin Folder
 drag all the .json files from this repo into that folder
